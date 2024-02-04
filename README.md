@@ -1,6 +1,6 @@
 # S7 React Admin Dashboard
 
-Run this project following these step: 
+** Run this project following these steps: **
 1. Download this project
 2. Open with VS Code & Open your terminal
 3. Press npm install 
